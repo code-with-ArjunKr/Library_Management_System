@@ -4,7 +4,7 @@ A simple web-based library management system built using HTML, CSS, JavaScript, 
 
 Features
 
-Admin:
+#Admin:
 
 Add/edit/delete admins and students.
 
@@ -14,7 +14,7 @@ Approve or decline student book requests.
 
 View and manage student records and requests.
 
-Student:
+#Student:
 
 Browse available books and request them.
 
